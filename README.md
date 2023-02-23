@@ -12,3 +12,5 @@ Realtime data visualization python code for IMU sensor data.
 ## Serial comm form
 
 "(acceleration x),(acceleration y),(acceleration z),(gyro x),(gyro y),(gyro z),(geomagnetic x),(geomagnetic y),(geomagnetic z)\n"
+
+-> example: "0.123,0.423,0.151,...,12.153"
